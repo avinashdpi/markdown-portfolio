@@ -1,2 +1,2 @@
-i love chocolates
-i love to learn new things 
+-i love chocolates
+-i love to learn new things 
