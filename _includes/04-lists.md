@@ -1,4 +1,4 @@
--i love chocolates
--i love to learn new things 
--i like cookies
--i like natural fruits
+- i love chocolates
+- i love to learn new things 
+- i like cookies
+- i like natural fruits
